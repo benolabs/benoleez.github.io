@@ -1,7 +1,7 @@
 ---
 title: about
 name: "Ben Lee"
-designation: "Application Support"
+designation: "Application Support Engineer"
 location: Sydney, Australia
 pronouns: "he/him/el"
 website: "https://github.com/benoleez"
