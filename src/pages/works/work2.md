@@ -1,17 +1,13 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+title: Senior Service Desk Consultant
+date: 2010 - 2015
+url: https://www.telstra.com.au/
+location: Sydney, Australia
+org: Telstra
 tags:
   [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
+    "Telecommunications",
+    "Networking"
   ]
 ---
 
