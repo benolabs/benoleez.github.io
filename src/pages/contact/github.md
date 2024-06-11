@@ -1,5 +1,5 @@
 ---
 title: Github
 icon: carbon:logo-github
-url: https://github.com/benoleez
+url: httpa://github.com
 ---

@@ -1,10 +1,10 @@
 ---
-title: Senior Application Support Engineer
-date: 2016 - Present
+title: Senior Detective
+date: 1990 - Present
 url: http://ropibbe.nf/savadru
-location: Sydney, Australia
-org: Daily Mail Australia
-tags: ["Media", "International News", "Tactical Operations", "Case Management"]
+location: Los Angeles, California
+org: Los Angeles Police Department (LAPD)
+tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
 ---
 
 - Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
