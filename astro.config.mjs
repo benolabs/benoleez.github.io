@@ -9,5 +9,5 @@ import vercel from "@astrojs/vercel/serverless";
 export default defineConfig({
   integrations: [tailwind(), icon(), compress()],
   output: "server",
-  adapter: vercel()
+  site: 'https://benoleez.github.io'
 });

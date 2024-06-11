@@ -1,15 +1,13 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Bachelor of Technology (E-Business)
+location: Sydney, Australia
+url: https://www.westernsydney.edu.au/
+institute: Western Sydney University
+date: 2005 - 2009
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "Software development",
+    "Networking",
+    "Legal Studies"
   ]
 ---
