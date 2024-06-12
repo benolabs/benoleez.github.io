@@ -1,7 +1,7 @@
 ---
 title: Senior Application Support Engineer
 date: 2016 - Present
-url: http://ropibbe.nf/savadru
+url: https://www.linkedin.com/company/daily-mail-australia/
 location: Sydney, Australia
 org: Daily Mail Australia
 tags: ["Media", "International News", "Tactical Operations", "Case Management"]
